@@ -5,3 +5,4 @@ The model includes:
     b. Gm, gd dependence on Vgs for Vds = 0.1V and Vds = Vdd.  
     c. Subthreshold, linear and saturation regimes  
     d. CLM, velocity saturation, mobility dependence on Vds and Vgs, Vth dependence on Vds and Lgate  
+
